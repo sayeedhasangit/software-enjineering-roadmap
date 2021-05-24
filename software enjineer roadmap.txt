@@ -1,0 +1,68 @@
+data structure, algorithm, problem solving - practice
+3rd year - make a portfolio resume
+git / open source community contribute / paid project / freelancing 
+ILTS - learn English 
+system design / system architecture (focus - software engineer)
+work releted - certifation (college university / diploma certificate) 
+(world - expert certification EX: google android certification)
+
+
+
+
+reqartion (university 1st year - tamim sharir suben)
+forigen apply - stack over flow, indeed, (remote), (sponsership)  
+
+
+1. business problem
+2. building the right thing
+   think the build right
+3. unit test - must need write for software development. 
+
+
+quora
+c Programming Language -> graphics.h
+
+project base larning
+
+1. haker rank
+2. code shep
+3. leetcode
+4. code forces
+
+swift framework (calculator app)
+java (android apps)
+udemy - free course
+
+
+intershala - for interring
+
+
+(-------------DSA Algorithm---------------------)
+1. read all conceft
+2. interview bit - website (question practice)
+
+participate hackathon
+
+
+
+(---------------------------------------- learn a great things-------------------------------)
+1. start startups
+2. relationship
+
+(---------------------------------- youtuber follow------------------------------------------)
+1. love baber
+2. apni kaksha
+3. anuj bhaiya
+
+
+
+1.learn just enogh
+2.make project
+3.1-2-3 repeat
+
+------------------------ important topic -------------------------
+1. function
+2. list/arry (basic data structure)
+3. for loop
+4. while loop 
+5. for each loop

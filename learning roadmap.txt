@@ -1,0 +1,104 @@
+ === 1st Sem ===
+ >=> Language
+     1. C++
+     2. Basic Syntex 
+     3. Data Types, I/O
+     4. Loops, Function
+     
+>- Resource
+    (2month-youtube course)
+    
+>=> DSA Algo
+    >-Basic DSA
+        short, array, link list, hasing
+    >-Advance DSA
+        tree, graph, trees, ST, greedy, DP
+        
+                    >>- PRACTICE -<<
+1. 1st year winter vacation
+geeks for geeks
+letcode
+hackerrank
+hacker earth
+code sheff
+code forces
+spojia
+interview bit
+
+
+
+
+       === 2nd Sem ===
+       
+>>-Competitive Programming
+    || Regular Consept
+    || Upsolve
+>>-Development
+    || App Development (important then web development)
+        android/ios
+    || Web Development
+        html, css, js, nodejs/django
+     >|| Database
+         SQL, MONGOdb
+         
+                >>- BUILD PROJECTS -<<
+1. solve some real life problem
+2. 
+
+
+            === 3rd sem ===
+         >>- Resume Build Sem -<<
+         
+>>- Strong Competitive Profile
+    
+    ~Contest Participation
+     codejam, kickstart, ICPC
+     
+>>- Build Some Strong Project (good UI/UX)
+>>- Focuses on GPA: (GPA must be 3.80+)
+
+
+
+
+
+
+             === 4th Sem === 
+            
+ 1.Intership                       2.Open Source 
+   google, micsoft,                  GSoc, MLH Fellowship, Outreacy, RGSoc
+   Samsung, startups
+   
+    ~~ Don't Just do an Intership ~~
+       Practice DSA, CP
+       
+>>- Theory Concepts
+    DBMS, OS, Networks
+    
+           >>- Update Resume
+           
+           
+           
+           
+           
+           
+                                 >>- === 3rd year === -<<
+                                 
+   After Grabbing a internship
+   
+                               - Open Source
+                               - Python ML/AI
+              EXPLORE          - Robotics, IoT
+                               - Research (IIT, IISC, top university)
+   
+                   
+                   
+                   
+                                 
+                                 >>- === 4th year === -<<
+ 
+ * find your niche (BEST)
+ 
+ >- Try for Placement
+ >- Try for (nich Base Freelancing)
+ 
+   

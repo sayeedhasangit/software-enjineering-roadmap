@@ -1,0 +1,5 @@
+
+Reasting = 7 (sleep) + 4(reasting+eat+and other stuff) 
+self study = 3 (DSA - in morning) + 3 (Dev) + 3 (study)
+college = 4 
+
