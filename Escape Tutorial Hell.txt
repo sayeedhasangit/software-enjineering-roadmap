@@ -1,0 +1,28 @@
+          >>- Escape Tutorial Hell? -<<
+          
+// Always must do real world practice
+ 
+ 
+🌴 if {
+        not able to sole question
+   }       
+       //after contest you see answer, did this again, again and again
+       //practice everyday, try to push your limit
+ 
+ 
+ 
+🌴 if{
+     you learning developer (30-40%)
+   }
+       //contribute open source
+       //make projects
+       //write blog
+       //workshop-for basic beginner
+>>- your profile show look like this you are developer 
+
+       
+        😎 Open Source
+            ~ Find a project
+            ~ Learn while doing 
+
+✔Learning from mistake
